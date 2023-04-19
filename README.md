@@ -46,7 +46,9 @@ Inline-style:
      <dd>Git-Hub<dd>
    </dl>
   
-  ###### Veido link
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+  
+###### image:
+![image](https://user-images.githubusercontent.com/127282114/232989503-7e6bc08f-da7b-4725-8bee-ad8a226f1267.png)
+
+###### video:
+https://www.google.com/search?q=flower+video&rlz=1C1ONGR_enIN1038IN1038&oq=flower+vedio&aqs=chrome.1.69i57j0i10i512l4j46i10i512j0i10i512l4.13652j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:8040d871,vid:ryUxrFUk6MY
